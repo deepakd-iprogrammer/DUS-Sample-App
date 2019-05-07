@@ -1,0 +1,14 @@
+{
+    "deploymentJob": [
+      {
+        "repoUrl": "https://github.com/deepakd-iprogrammer/DUS-Sample-App.git",
+        "appVersions": [
+          "default"
+        ],
+        "branchName": "test",
+        "shouldDeploy": true,
+        "preCompileScript": "ls",
+        "bundleName": "example"
+      }
+    ]
+  }
